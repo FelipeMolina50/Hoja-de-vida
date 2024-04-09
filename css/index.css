@@ -1,0 +1,64 @@
+body{
+    padding: 0;
+    background:#AAC2BE;
+}
+.name {
+    width: 100%;
+    height: 300px;
+    background: #499167;
+    border-radius: 20px;
+}
+.name .contenido{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left:20%;
+    margin-bottom: 0;
+
+}
+.name .contenido .p1 {
+    color: #3f4531;
+    font-family: "Roboto", sans-serif;
+    font-weight: bolder;
+    font-size:50px;
+}
+.name .contenido .p2 {
+    color: #3f4531;
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.info {
+    width: 90%;
+    height: auto;
+    background: #499167;
+    margin: 5% auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.info .tituloseccion {
+    color: #3f4531;
+    font-family: "Roboto", sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #3f4531 dashed;
+}
+
+.info .tituloinfo {
+    color: #3f4531;
+    font-family: "Roboto", sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 10px;
+}
+.info .infoinfo {
+    color: #3f4531;
+    font-family: "Roboto", sans-serif;
+    font-size: large;
+    display: inline;
+}
